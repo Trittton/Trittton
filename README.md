@@ -17,7 +17,8 @@
 
 🛠 Tools:
 
-<img scr="https://github.com/Trittton/Trittton/blob/main/Assets/Android_SDK_icon.png?raw=true" width="50px"> 
+<img src="https://github.com/Trittton/Trittton/blob/main/Assets/md_icon.png?raw=true" width="50px"> <img scr="" width="50px"> <img scr="https://github.com/Trittton/Trittton/blob/main/Assets/terminal_icon.png?raw=true" width="50px"> <img scr="https://github.com/Trittton/Trittton/blob/main/Assets/git_icon.png?raw=true" width="50px"> <img scr="https://github.com/Trittton/Trittton/blob/main/Assets/postman_icon%2022.35.53.png?raw=true" width="50px"> <img scr="https://github.com/Trittton/Trittton/blob/main/Assets/Dbeaver_logo.png?raw=true" width="50px">
+
 
 <img scr="" width="50px">
 
