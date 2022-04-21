@@ -4,16 +4,16 @@
 
 ## ✨ You can see my practice here: ✨
 
-+ [Test documentation]
-+ [Linux terminal]
-+ [Git]
-+ [Postman]
-+ [SQL]
-+ [Chrome DevTools]
-+ [Mobile testing]
-+ [Android Studio]
-+ [Charles Proxy]
-+ [JMeter]
++ [Test documentation](https://github.com/Trittton/Tools/blob/main/Test%20Artifacts/New%20Text%20Document.md)
++ [Linux terminal](https://github.com/Trittton/Tools/blob/main/Git%2C%20GitHub%2C%20Git%20Bash/Gatsyuk_HW_1_Terminal(GitBash).txt)
++ [Git](https://github.com/Trittton/QA_Vadim_Ksendzov_course/blob/main/HW_2_Github_part_1/Gatsyuk_HW_2_Github.md)
++ [Postman](https://github.com/Trittton/Tools/tree/main/Postman)
++ [SQL](https://github.com/Trittton/Tools/tree/main/SQL)
++ [Chrome DevTools](https://github.com/Trittton/Tools/tree/main/DevTools)
++ [Mobile testing](https://github.com/Trittton/Tools/blob/main/Test%20Artifacts/Mobile_Testing.md)
++ [Android Studio](https://github.com/Trittton/Tools/tree/main/Android%20Studio)
++ [Charles Proxy](https://github.com/Trittton/Tools/tree/main/Charles)
++ [JMeter](https://github.com/Trittton/Tools/tree/main/JMetr)
 
 🛠 Tools:
 
