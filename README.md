@@ -4,7 +4,7 @@
 
 ## ✨ You can see my practice here: ✨
 
-+ [Test documentation](https://github.com/Trittton/Tools/blob/main/Test%20Artifacts/New%20Text%20Document.md)
++ [Test documentation](https://github.com/Trittton/Tools/blob/main/Test%20Artifacts/Test_documentation.md)
 + [Linux terminal](https://github.com/Trittton/Tools/blob/main/Git%2C%20GitHub%2C%20Git%20Bash/Gatsyuk_HW_1_Terminal(GitBash).txt)
 + [Git](https://github.com/Trittton/QA_Vadim_Ksendzov_course/blob/main/HW_2_Github_part_1/Gatsyuk_HW_2_Github.md)
 + [Postman](https://github.com/Trittton/Tools/tree/main/Postman)
