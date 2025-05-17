@@ -1,7 +1,5 @@
 # 🖖Hi, my name is Bogdan and I'm a QA Engineer!
 
-👩‍💻 I have completed the "Software testing" course by Vadim Ksendzov
-
 ## ✨ You can see my practice here: ✨
 
 + [Test documentation](https://github.com/Trittton/Tools/blob/main/Test%20Artifacts/Test_documentation.md)
