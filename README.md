@@ -40,7 +40,9 @@ a QA with over 5+ years of experience ensuring software quality and building aut
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="50" height="50"/>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="50" height="50"/>
+    <a href="https://www.cypress.io/" target="_blank">
+      <img src="https://cdn.simpleicons.org/cypress/17202C" alt="Cypress" width="50" height="50"/>
+    </a>
   </td>
 </tr>
 <tr style="border: none !important;">
@@ -173,7 +175,9 @@ a QA with over 5+ years of experience ensuring software quality and building aut
     <img src="images/postman.png" alt="Postman" width="50" height="50"/>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://jmeter.apache.org/images/logo.svg" alt="Apache JMeter" width="50" height="50"/>
+    <a href="https://jmeter.apache.org/" target="_blank">
+      <img src="https://cdn.simpleicons.org/apachejmeter/D22128" alt="Apache JMeter" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
     <img src="images/charles.png" alt="Charles Proxy" width="50" height="50"/>
