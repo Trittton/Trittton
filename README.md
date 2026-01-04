@@ -30,8 +30,8 @@ a QA with over 5+ years of experience ensuring software quality and building aut
 ## Technologies And Tools
 
 ### Automation
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
   <td align="center" width="96" style="border: none; padding: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50"/>
   </td>
@@ -42,22 +42,22 @@ a QA with over 5+ years of experience ensuring software quality and building aut
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="50" height="50"/>
   </td>
 </tr>
-<tr style="border: none;">
+<tr>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium"/>
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright"/>
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress"/>
+    <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress" height="20"/>
   </td>
 </tr>
 </table>
 
 ### Languages & Scripting
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
   <td align="center" width="96" style="border: none; padding: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </td>
@@ -77,31 +77,31 @@ a QA with over 5+ years of experience ensuring software quality and building aut
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
   </td>
 </tr>
-<tr style="border: none;">
+<tr>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="20"/>
   </td>
 </tr>
 </table>
 
 ### CI/CD & Platforms
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
   <td align="center" width="96" style="border: none; padding: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50"/>
   </td>
@@ -112,22 +112,22 @@ a QA with over 5+ years of experience ensuring software quality and building aut
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   </td>
 </tr>
-<tr style="border: none;">
+<tr>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="20"/>
   </td>
 </tr>
 </table>
 
 ### Project Management & Methodologies
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
   <td align="center" width="96" style="border: none; padding: 8px;">
     <img src="assets/atlassian-jira.png" alt="Jira" width="50" height="50"/>
   </td>
@@ -141,25 +141,25 @@ a QA with over 5+ years of experience ensuring software quality and building aut
     <img src="https://cdn.simpleicons.org/qase/4F46DC" alt="Qase" width="50" height="50"/>
   </td>
 </tr>
-<tr style="border: none;">
+<tr>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/TestRail-65C179?style=flat&logoColor=white" alt="TestRail"/>
+    <img src="https://img.shields.io/badge/TestRail-65C179?style=flat&logoColor=white" alt="TestRail" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence"/>
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/Qase-4F46DC?style=flat&logoColor=white" alt="Qase"/>
+    <img src="https://img.shields.io/badge/Qase-4F46DC?style=flat&logoColor=white" alt="Qase" height="20"/>
   </td>
 </tr>
 </table>
 
 ### Other Tools
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
   <td align="center" width="96" style="border: none; padding: 8px;">
     <img src="assets/postman.png" alt="Postman" width="50" height="50"/>
   </td>
@@ -176,21 +176,21 @@ a QA with over 5+ years of experience ensuring software quality and building aut
     <img src="assets/devtools.png" alt="Browser DevTools" width="50" height="50"/>
   </td>
 </tr>
-<tr style="border: none;">
+<tr>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" alt="JMeter"/>
+    <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" alt="JMeter" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/Charles%20Proxy-3B5998?style=flat&logoColor=white" alt="Charles Proxy"/>
+    <img src="https://img.shields.io/badge/Charles%20Proxy-3B5998?style=flat&logoColor=white" alt="Charles Proxy" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/SoapUI-FCDC00?style=flat&logoColor=black" alt="SoapUI"/>
+    <img src="https://img.shields.io/badge/SoapUI-FCDC00?style=flat&logoColor=black" alt="SoapUI" height="20"/>
   </td>
   <td align="center" style="border: none; padding: 8px;">
-    <img src="https://img.shields.io/badge/DevTools-5B5B5B?style=flat&logoColor=white" alt="Browser DevTools"/>
+    <img src="https://img.shields.io/badge/DevTools-5B5B5B?style=flat&logoColor=white" alt="Browser DevTools" height="20"/>
   </td>
 </tr>
 </table>
