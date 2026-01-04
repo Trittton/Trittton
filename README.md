@@ -34,10 +34,14 @@ a QA with over 5+ years of experience ensuring software quality and building aut
 <table align="center" cellspacing="0" cellpadding="0" style="border: none !important;">
 <tr style="border: none !important;">
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50"/>
+    <a href="https://www.selenium.dev/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="50" height="50"/>
+    <a href="https://playwright.dev/" target="_blank">
+      <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
     <a href="https://www.cypress.io/" target="_blank">
@@ -64,22 +68,34 @@ a QA with over 5+ years of experience ensuring software quality and building aut
 <table align="center" cellspacing="0" cellpadding="0" style="border: none !important;">
 <tr style="border: none !important;">
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="50"/>
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+    </a>
   </td>
 </tr>
 <tr style="border: none !important;">
@@ -110,13 +126,19 @@ a QA with over 5+ years of experience ensuring software quality and building aut
 <table align="center" cellspacing="0" cellpadding="0" style="border: none !important;">
 <tr style="border: none !important;">
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50"/>
+    <a href="https://github.com/features/actions" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
+    <a href="https://www.jenkins.io/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+    <a href="https://www.docker.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+    </a>
   </td>
 </tr>
 <tr style="border: none !important;">
@@ -138,16 +160,24 @@ a QA with over 5+ years of experience ensuring software quality and building aut
 <table align="center" cellspacing="0" cellpadding="0" style="border: none !important;">
 <tr style="border: none !important;">
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="images/atlassian-jira.png" alt="Jira" width="50" height="50"/>
+    <a href="https://www.atlassian.com/software/jira" target="_blank">
+      <img src="images/atlassian-jira.png" alt="Jira" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://cdn.simpleicons.org/testrail/65C179" alt="TestRail" width="50" height="50"/>
+    <a href="https://www.testrail.com/" target="_blank">
+      <img src="https://cdn.simpleicons.org/testrail/65C179" alt="TestRail" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="images/atlassian-confluence.png" alt="Confluence" width="50" height="50"/>
+    <a href="https://www.atlassian.com/software/confluence" target="_blank">
+      <img src="images/atlassian-confluence.png" alt="Confluence" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://cdn.simpleicons.org/qase/4F46DC" alt="Qase" width="50" height="50"/>
+    <a href="https://qase.io/" target="_blank">
+      <img src="https://cdn.simpleicons.org/qase/4F46DC" alt="Qase" width="50" height="50"/>
+    </a>
   </td>
 </tr>
 <tr style="border: none !important;">
@@ -172,7 +202,9 @@ a QA with over 5+ years of experience ensuring software quality and building aut
 <table align="center" cellspacing="0" cellpadding="0" style="border: none !important;">
 <tr style="border: none !important;">
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="images/postman.png" alt="Postman" width="50" height="50"/>
+    <a href="https://www.postman.com/" target="_blank">
+      <img src="images/postman.png" alt="Postman" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
     <a href="https://jmeter.apache.org/" target="_blank">
@@ -180,13 +212,19 @@ a QA with over 5+ years of experience ensuring software quality and building aut
     </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="images/charles.png" alt="Charles Proxy" width="50" height="50"/>
+    <a href="https://www.charlesproxy.com/" target="_blank">
+      <img src="images/charles.png" alt="Charles Proxy" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="images/soapui.png" alt="SoapUI" width="50" height="50"/>
+    <a href="https://www.soapui.org/" target="_blank">
+      <img src="images/soapui.png" alt="SoapUI" width="50" height="50"/>
+    </a>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="images/devtools.png" alt="Browser DevTools" width="50" height="50"/>
+    <a href="https://developer.chrome.com/docs/devtools" target="_blank">
+      <img src="images/devtools.png" alt="Browser DevTools" width="50" height="50"/>
+    </a>
   </td>
 </tr>
 <tr style="border: none !important;">
