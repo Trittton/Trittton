@@ -29,82 +29,45 @@ a QA with over 5+ years of experience ensuring software quality and building aut
 
 ## Technologies And Tools
 
-### Automation & Testing Tools
+### Automation
 <p align="center">
-  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="50" height="50"/>
-  <img src="https://jmeter.apache.org/images/logo.svg" alt="Apache JMeter" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50"/>
-  <img src="assets/postman.png" alt="Postman" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" width="50" height="50"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/zephyr/2684FF" alt="Zephyr" width="50" height="50"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" alt="JMeter"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress"/>
-  <img src="https://img.shields.io/badge/Zephyr-2684FF?style=flat&logoColor=white" alt="Zephyr"/>
 </p>
 
 ### Languages & Scripting
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Version Control
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
 </p>
 
 ### CI/CD & Platforms
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/windows/0078D6" alt="WSL" width="50" height="50"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/WSL-0078D6?style=flat&logo=windows&logoColor=white" alt="WSL"/>
 </p>
 
 ### Project Management & Methodologies
 <p align="center">
   <img src="assets/atlassian-jira.png" alt="Jira" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/agilemethodology/009FDA" alt="Agile" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/scrum/6DB33F" alt="Scrum" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/googledocs/4285F4" alt="SDLC" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" alt="STLC" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/testrail/65C179" alt="TestRail" width="50" height="50"/>
+  <img src="assets/atlassian-confluence.png" alt="Confluence" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/qase/4F46DC" alt="Qase" width="50" height="50"/>
 </p>
+
+### Other Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Agile-009FDA?style=flat&logoColor=white" alt="Agile"/>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat&logoColor=white" alt="Scrum"/>
-  <img src="https://img.shields.io/badge/SDLC-4285F4?style=flat&logoColor=white" alt="SDLC"/>
-  <img src="https://img.shields.io/badge/STLC-03234B?style=flat&logoColor=white" alt="STLC"/>
+  <img src="assets/postman.png" alt="Postman" width="50" height="50"/>
+  <img src="https://jmeter.apache.org/images/logo.svg" alt="Apache JMeter" width="50" height="50"/>
+  <img src="assets/charles.png" alt="Charles Proxy" width="50" height="50"/>
+  <img src="https://www.soapui.org/assets/logo.png" alt="SoapUI" width="50" height="50"/>
+  <img src="assets/devtools.png" alt="Browser DevTools" width="50" height="50"/>
 </p>
 
 
