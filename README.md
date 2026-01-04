@@ -179,7 +179,7 @@ a QA with over 5+ years of experience ensuring software quality and building aut
     <img src="images/charles.png" alt="Charles Proxy" width="50" height="50"/>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/soapui.svg" alt="SoapUI" width="50" height="50"/>
+    <img src="images/soapui.png" alt="SoapUI" width="50" height="50"/>
   </td>
   <td align="center" width="96" style="border: none !important; padding: 8px;">
     <img src="images/devtools.png" alt="Browser DevTools" width="50" height="50"/>
