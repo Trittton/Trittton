@@ -15,8 +15,8 @@ a QA with over 5+ years of experience ensuring software quality and building aut
 
 </div>
 
-* :telescope: I am currently working on automated regression suites, CI/CD pipeline integration, and improving test coverage for [Win Media Tech](https://www.linkedin.com/company/winmediatech/)
-* :memo: I write technical documentation and testing strategies on [LastFlag](https://www.youtube.com/@PlayLastFlag)
+* :telescope: I am currently working on automated suites, CI/CD pipeline integration, and improving test coverage for [Win Media Tech](https://www.linkedin.com/company/winmediatech/)
+* :memo: I write technical documentation and testing strategies for [LastFlag](https://www.youtube.com/@PlayLastFlag)
 * :speech_balloon: Ask me about *test automation*, *bug life cycle management*, and *API testing* (**gatsyuk.b@gmail.com**)
 
 
