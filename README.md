@@ -15,15 +15,15 @@ a QA with over 5+ years of experience ensuring software quality and building aut
 
 </div>
 
-* :telescope: I am currently working on automated regression suites, CI/CD pipeline integration, and improving test coverage for [LastFlag](https://www.youtube.com/@PlayLastFlag).
-* :memo: I write technical documentation and testing strategies on [LinkedIn](https://www.linkedin.com/in/bogdan-gatsyuk-a0a7a11bb/).
-* :speech_balloon: Ask me about *test automation*, *bug life cycle management*, and *API testing* (**gatsyuk.b@gmail.com**).
+* :telescope: I am currently working on automated regression suites, CI/CD pipeline integration, and improving test coverage for [Win Media Tech](https://www.linkedin.com/company/winmediatech/)
+* :memo: I write technical documentation and testing strategies on [LastFlag](https://www.youtube.com/@PlayLastFlag)
+* :speech_balloon: Ask me about *test automation*, *bug life cycle management*, and *API testing* (**gatsyuk.b@gmail.com**)
 
 
 
 ## Featured Automation Portfolio
 
-🧪 **End-to-End Test Suites**: [web-e2e-playwright-ts](https://github.com/Trittton/web-e2e-playwright-ts) – Playwright-based E2E test suite covering core user flows on Jobindex.dk, executed via CI pipelines with automated test reports.
+🧪 **End-to-End Test Suites**: [web-e2e-playwright-ts](https://github.com/Trittton/web-e2e-playwright-ts) - Playwright-based E2E test suite covering core user flows on Jobindex.dk, executed via CI pipelines with automated test reports.
 
 ⚙️ **API Testing Framework**: [energi-api-postman-newman-framework](https://github.com/Trittton/energi-api-postman-newman-framework) - Modular API framework for Energi Data Service with CI integration, data validation, and report generation
 
